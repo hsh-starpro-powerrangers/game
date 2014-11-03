@@ -14,4 +14,5 @@ Bachelorstudiengang "Angewandte Informatik", 1. Semester.
 Projektbetreuer: Prof. Dr. Robert Garmann
 
 Hochschule Hannover
+
 University of Applied Sciences and Arts
