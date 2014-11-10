@@ -1,11 +1,16 @@
-                            CRAB WORLD
+Joe Survivor
 
-                     Michael Kšlling, 2007
-                    
-Welcome to CRAB WORLD.  This is a simple Greenfoot scenario, designed 
-for learning the basics of programming. 
+Greenfoot Startprojekt von
 
-In this world, crabs walk along a beach. Everything else is up to you.
+Alexander Gauggel
+Alexander Grunewald
+Patrick Köpke
+André Thiemann
+Trung Tran
+Bachelorstudiengang "Angewandte Informatik", 1. Semester.
 
-This scenario is designed to be used with "The Greenfoot Book", which 
-tells you how to approach programming this scenario.
+Projektbetreuer: Prof. Dr. Robert Garmann
+
+Hochschule Hannover
+
+University of Applied Sciences and Arts
