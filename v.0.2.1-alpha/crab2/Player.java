@@ -1,5 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
+import java.awt.*;
+import java.*;
 /**
  * Write a description of class Player here.
  * 
@@ -137,6 +138,7 @@ public class Player extends Actor
             mCollectedCoins ++;
             Greenfoot.playSound("money.wav");
         }
+ 
     }
     
     // Lässt den Charakter schießen.
@@ -235,6 +237,7 @@ public class Player extends Actor
         if(actor != null) 
         {
             getWorld().removeObject(actor);
+            
         }        
     }
 }
