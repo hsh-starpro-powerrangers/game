@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=
+comment3.target=void\ stopFalling()
+comment4.params=
+comment4.target=boolean\ isOnGround()
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+comment6.params=clss
+comment6.target=void\ destroy(java.lang.Class)
+numComments=7
